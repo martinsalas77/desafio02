@@ -17,6 +17,7 @@ header{
 section{
     height: 90%;
     margin: 10px auto;
+    
 }
 h3{
     font-family: "Josefin Sans", sans-serif;
@@ -30,4 +31,14 @@ p{
 footer{
     background-color: #0D47A1 ;
     text-align: center;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: 1px solid #E3F2FD;
+    border-radius: 5px;
+    background-color: #E3F2FD;
+
 }
